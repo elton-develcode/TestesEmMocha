@@ -16,6 +16,7 @@ Conventions and best practices using react.
 * [Functions](#functions)
 * [Autobinding](#autobinding)
 * [Constants](#constants)
+* [Comparator](#comparator)
 
 </br></br>
 
@@ -138,6 +139,10 @@ class Comp extends Component {
 }
 
 ```
+</br></br>
+
+### Comparator
+
 :warning: When comparing use === (identical) and not == (equality)
 
 </br></br>
