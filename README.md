@@ -5,10 +5,11 @@
 * [Yarn](https://yarnpkg.com/lang/en/): Manager package
 
 
-## [Conventions](#conventions-and-best-practices-using-react)
+## Conventions
+Conventions and best practices using react.
 
 * [Nomenclatures](#nomenclatures)
-* [Naming Folder](#NamingFolder)
+* [Naming Folder](#namingfolder)
 
 
 ### Nomenclatures
