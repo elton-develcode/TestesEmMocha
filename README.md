@@ -12,6 +12,7 @@ Conventions and best practices using react.
 * :abcd: [Nomenclatures](#nomenclatures)
 * :open_file_folder: [Folder](#folder)
 * :page_with_curl: [Files](#files)
+  ** [Files js. jsx](#files)
 
 </br></br>
 
