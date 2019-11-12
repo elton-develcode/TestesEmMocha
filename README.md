@@ -9,7 +9,7 @@
 Conventions and best practices using react.
 
 * [Nomenclatures](#nomenclatures)
-* [Folder](#folder)
+* :open_file_folder: [Folder](#folder)
 * [Files](#files)
 
 
@@ -19,7 +19,7 @@ Definition of the nomenclatures of packages, classes, variables, constants, meth
 **_Use English for name definition, except for situations where there is no word in the language._**
 </br></br>
 
-### Folder ### :open_file_folder:
+### Folder
 The folders must be created with lowercase letters and with camelCase. The words should be in the singular, according to the model below:
 
 | Folder                        | Example                      |
