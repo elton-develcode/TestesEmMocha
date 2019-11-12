@@ -20,7 +20,7 @@ Definition of the nomenclatures of packages, classes, variables, constants, meth
 </br>
 **_Use English for name definition, except for situations where there is no word in the language._**
 
-</br></br></br>
+</br></br>
 
 ### Folder
 The folders must be created with lowercase letters and with camelCase. The words should be in the singular, according to the model below:
@@ -32,7 +32,7 @@ The folders must be created with lowercase letters and with camelCase. The words
 | list submenu                  | listSubmenu                  |
 
 
-</br></br></br>
+</br></br>
 
 ### Files
 
