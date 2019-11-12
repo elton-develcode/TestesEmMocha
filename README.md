@@ -116,17 +116,17 @@ Do not use comparison directly with numbers or strings use constant files for th
 
 Example:
 
-> constants.js
+> Constants.js
 
 ```
-export dafault NUMBER_ONE = 1
+export default NUMBER_ONE = 1
 ```
 </br>
 
 > Component.js
 
 ```
-import constants from 'folder/constants'
+import constants from 'folder/Constants'
 
 class Comp extends Component {
 
@@ -139,3 +139,5 @@ class Comp extends Component {
 
 ```
 :warning: When comparing use === (identical) and not == (equality)
+
+</br></br>
