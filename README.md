@@ -181,4 +181,4 @@ it ('render', () => {
 </br></br>
 
 ##
-**Happy coding!** :coffe: 
+**Happy coding!** :coffee: 
