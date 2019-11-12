@@ -143,6 +143,9 @@ class Comp extends Component {
 
 ### Comparator
 
-:warning: When comparing use === (identical) and not == (equality)
+:warning: When comparing use === (identical) and not == (equality).
+
+</br>
+[More...](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Equality_comparisons_and_sameness)
 
 </br></br>
