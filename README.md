@@ -1,7 +1,7 @@
 
 ## Basic Requirements
 
-* [Node](https://nodejs.org/en) version 6+
+* [Node](https://nodejs.org/en): version 6+
 * [Yarn](https://yarnpkg.com/lang/en/): Manager package
 
 </br></br>
