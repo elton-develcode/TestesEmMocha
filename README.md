@@ -8,8 +8,8 @@
 ## Conventions
 Conventions and best practices using react.
 
-* [Nomenclatures](#nomenclatures)
-* :open_file_folder: [Folder](#folder)
+:abcd: [Nomenclatures](#nomenclatures)
+:open_file_folder: [Folder](#folder)
 * [Files](#files)
 
 
