@@ -49,3 +49,18 @@ Must be located next to files of the same type, except in specific cases.
 
 _Name:_
 Must follow Name + Type rule
+
+</br>
+
+| Component                     | Examples                     |
+|-------------------------------|------------------------------|
+| a modal component             | ModalComponent.js            |
+| a edit container              | EditContainer.js             |
+
+
+</br>
+
+_Location:_
+Must be located next to files of the same type.
+
+</br></br>
