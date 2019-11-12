@@ -11,8 +11,8 @@ Conventions and best practices using react.
 
 * [Nomenclatures](#nomenclatures)
 * [Folder](#folder)
-* **[Files]**(#files)
-  ** [Files js. jsx](#files)
+* [Files](#files)
+* [Files js. jsx](#filesjs)
 
 </br></br>
 
@@ -42,3 +42,9 @@ It should be simple and descriptive, allowing its easy association with context,
 </br>
 _Location:_
 Must be located next to files of the same type, except in specific cases.
+
+
+### FilesJs
+
+_Name:_
+Must follow Name + Type rule
