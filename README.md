@@ -152,7 +152,6 @@ class Comp extends Component {
 
 _Addition:_ Check usage and compatibility with other dependencies.
 
-</br>
 
 _Update:_ Check usage and compatibility with other dependencies.
 
