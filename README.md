@@ -31,7 +31,7 @@ The folders must be created with lowercase letters and with camelCase. The words
 
 </br></br>
 
-### Files :file_folder:
+### :open_file_folder: Files
 
 Name:
 
