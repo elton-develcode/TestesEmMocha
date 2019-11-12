@@ -29,7 +29,9 @@ The folders must be created with lowercase letters and with camelCase. The words
 | list submenu                  | listSubmenu                  |
 
 
+</br></br>
 
 ### Files
 
-_Name:_ It should be simple and descriptive, allowing its easy association with context, except for files with restrictive names.
+**_Name:_**
+It should be simple and descriptive, allowing its easy association with context, except for files with restrictive names.
