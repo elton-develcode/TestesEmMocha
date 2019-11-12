@@ -6,3 +6,5 @@
 
 
 ### [Conventions](#conventions-and-best-practices-using-react)
+
+* [Nomenclatures](#nomenclatures)
