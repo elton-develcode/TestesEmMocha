@@ -179,3 +179,6 @@ it ('render', () => {
 ```
 
 </br></br>
+
+##
+**Happy coding!** :coffe: 
