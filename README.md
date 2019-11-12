@@ -77,3 +77,5 @@ Must be simple and descriptive, follow Camel-case pattern.
 ### Autobinding
 
 :warning: Use arrow functions instead of bind.
+
+:heavy_check_mark: correct:
