@@ -17,6 +17,7 @@ Conventions and best practices using react.
 * [Autobinding](#autobinding)
 * [Constants](#constants)
 * [Comparator](#comparator)
+* [Dependencies](#dependencies)
 
 </br></br>
 
@@ -143,6 +144,16 @@ class Comp extends Component {
 
 ### Comparator
 
-:warning: When comparing use === (identical) and not == (equality). [mozilla docs](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Equality_comparisons_and_sameness)
+:warning: When comparing use === (identical) and not == (equality). 
+
+</br></br>
+
+### Dependencies
+
+_Addition:_ Check usage and compatibility with other dependencies.
+
+</br>
+
+_Update:_ Check usage and compatibility with other dependencies.
 
 </br></br>
