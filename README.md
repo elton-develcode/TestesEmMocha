@@ -97,7 +97,7 @@ class Comp extends Component {
 
     constructor (props) {
         super (props)   
-        this.method - this.method; bond (this)
+        this.method = this.method.bind(this)
     }
 
     method () {
