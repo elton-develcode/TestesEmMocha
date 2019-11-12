@@ -90,3 +90,20 @@ class Comp extends Component {
 }
 ```
 
+ :x: Incorrect
+ 
+```
+class Comp extends Component {
+
+    constructor (props) {
+        super (props)   
+        this.method - this.method; bond (this)
+    }
+
+    method () {
+        console.log ('-')
+    }
+}
+```
+
+
