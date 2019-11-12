@@ -3,6 +3,7 @@
 
 * [Node](https://nodejs.org/en): version 6+
 * [Yarn](https://yarnpkg.com/lang/en/): Manager package
+* [Shallow](https://airbnb.io/enzyme/docs/api/shallow.html): For tests
 
 </br></br>
 
