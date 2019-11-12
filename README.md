@@ -38,3 +38,6 @@ The folders must be created with lowercase letters and with camelCase. The words
 
 _Name:_
 It should be simple and descriptive, allowing its easy association with context, except for files with restrictive names.
+</br>
+_Location:_
+Must be located next to files of the same type, except in specific cases.
