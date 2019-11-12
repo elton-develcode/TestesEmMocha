@@ -43,6 +43,7 @@ It should be simple and descriptive, allowing its easy association with context,
 _Location:_
 Must be located next to files of the same type, except in specific cases.
 
+</br></br>
 
 ### FilesJs
 
