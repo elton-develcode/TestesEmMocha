@@ -76,6 +76,17 @@ Must be simple and descriptive, follow Camel-case pattern.
 
 ### Autobinding
 
-:warning: Use arrow functions instead of bind.
+:warning: Use arrow functions instead of bind. 
 
 :heavy_check_mark: correct:
+
+```
+class Comp extends Component {
+
+    method = () => {
+      console.log ('-')
+    }
+    
+}
+```
+
