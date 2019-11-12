@@ -138,3 +138,4 @@ class Comp extends Component {
 }
 
 ```
+:warning: When comparing use === (identical) and not == (equality)
