@@ -8,7 +8,7 @@
 ## [Conventions](#conventions-and-best-practices-using-react)
 
 * [Nomenclatures](#nomenclatures)
-* [Naming Folder](#Naming Folder)
+* [Naming Folder](#NamingFolder)
 
 
 ### Nomenclatures
