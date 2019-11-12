@@ -4,7 +4,7 @@
 * [Node](https://nodejs.org/en) version 6+
 * [Yarn](https://yarnpkg.com/lang/en/): Manager package
 
-</br></br></br>
+</br></br>
 
 ## Conventions
 Conventions and best practices using react.
@@ -13,11 +13,11 @@ Conventions and best practices using react.
 * :open_file_folder: [Folder](#folder)
 * :page_with_curl: [Files](#files)
 
-</br></br></br>
+</br></br>
 
 ### Nomenclatures
 Definition of the nomenclatures of packages, classes, variables, constants, methods and others. As a general rule, no accent or special characters are allowed in names of any kind.
-</br>
+</br></br>
 **_Use English for name definition, except for situations where there is no word in the language._**
 
 </br></br>
