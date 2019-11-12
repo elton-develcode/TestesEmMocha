@@ -33,5 +33,6 @@ The folders must be created with lowercase letters and with camelCase. The words
 
 ### Files
 
-**_Name:_**
+**Name:**
+
 It should be simple and descriptive, allowing its easy association with context, except for files with restrictive names.
