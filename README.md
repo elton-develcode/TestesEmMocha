@@ -18,6 +18,7 @@ Conventions and best practices using react.
 * [Constants](#constants)
 * [Comparator](#comparator)
 * [Dependencies](#dependencies)
+* [Tests](#tests)
 
 </br></br>
 
@@ -154,5 +155,26 @@ _Addition:_ Check usage and compatibility with other dependencies.
 
 
 _Update:_ Check usage and compatibility with other dependencies.
+
+</br></br>
+
+### Tests
+
+_Roof_:
+Must have a coverage of at least 80%.
+
+ 
+_Quality:_
+Avoid counting tests of <div /> or similar.
+
+:x: Incorrect:
+
+```
+it ('render', () => {
+    const filed = component.find(Row)
+
+    expect(filed.legth).to.equal(7)
+}
+```
 
 </br></br>
