@@ -89,8 +89,9 @@ class Comp extends Component {
     
 }
 ```
+</br>
 
- :x: Incorrect
+ :x: Incorrect:
  
 ```
 class Comp extends Component {
