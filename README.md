@@ -15,6 +15,7 @@ Conventions and best practices using react.
 * [Files js. jsx](#filesjs)
 * [Functions](#functions)
 * [Autobinding](#autobinding)
+* [Constants](#constants)
 
 </br></br>
 
@@ -107,4 +108,33 @@ class Comp extends Component {
 }
 ```
 
+</br></br>
 
+### Constants
+
+Do not use comparison directly with numbers or strings use constant files for this.
+
+Example:
+
+> constants.js
+
+```
+export dafault NUMBER_ONE = 1
+```
+</br>
+
+> Component.js
+
+```
+import constants from 'folder/constants'
+
+class Comp extends Component {
+
+    method = (value) => {
+        if(value === constants.NUMBER_ONE){
+            ...
+        }
+    }
+}
+
+```
