@@ -13,6 +13,8 @@ Conventions and best practices using react.
 * [Folder](#folder)
 * [Files](#files)
 * [Files js. jsx](#filesjs)
+* [Functions](#functions)
+* [Autobinding](#autobinding)
 
 </br></br>
 
@@ -64,3 +66,14 @@ _Location:_
 Must be located next to files of the same type.
 
 </br></br>
+
+### Functions
+
+_Name:_
+Must be simple and descriptive, follow Camel-case pattern.
+
+</br></br>
+
+### Autobinding
+
+:warning: Use arrow functions instead of bind.
